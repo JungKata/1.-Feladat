@@ -1,0 +1,23 @@
+body
+{
+    background-color: aliceblue;
+}
+p
+{
+color: darkblue;
+}
+h2, link{
+    color: crimson;
+}
+#kep{
+    margin-left:auto ;
+    margin-right: auto;
+    display: block;
+}
+#vonal{
+    margin-left:auto ;
+    margin-right: auto;
+    display: block;
+    width: 70%;
+    
+}
