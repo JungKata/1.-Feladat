@@ -74,3 +74,40 @@ float:left;
     float: right;
 }
 
+.besorolas{
+    align-items: center;
+    
+}
+#besor_tabla{
+    border-collapse: collapse;
+    border: 1px;
+    margin: auto;
+    width: 500px;
+    border-spacing: 6px;
+}
+
+#besor_tabla td{
+     padding: 6px;
+}
+
+#besor_tabla h2{
+    background-color: crimson;
+    color: aliceblue;
+}
+#oszlopok{
+    align-items: right;
+    align-content: right;
+    text-align: right;
+    vertical-align: right;
+    width: 240px;
+}
+#felosztas{
+    text-align: center;
+}
+
+#felosztas_al{
+    text-align: center;
+
+}
+
+
