@@ -40,15 +40,18 @@ hr {
     align-items: center;
     align-content: center;
     margin: auto;
+    
 }
 #sor{
     margin: auto;
     width: 400px;
+   
 }
 #szarka_alkata{
     border: 1px solid black;
     width: 230px;
     height: 153px;
+    
 }
 
 .bekezdes_ketto{
