@@ -21,3 +21,24 @@ h2, link{
     width: 70%;
     
 }
+
+.tablazat{
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    display: flex;
+}
+#sor{
+    align-items: center;
+    align-content: center;
+    margin: auto;
+}
+#cella_egy{
+     margin: auto;
+    width: 400px;
+}
+#szarka_alkata{
+    border: 1px;
+    width: 230px;
+    height: 153px;
+}
